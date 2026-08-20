@@ -16,7 +16,7 @@
 # nuqneH!
 - Currently a 2nd year BS Computer Science Student in University of the Philippines: Diliman
 - Interested in applying computer science, data science, machine learning, and statistics in solving problems or questions I find interesting/noteworthy.
-- Currently learning DSA, Software Development, and modelling statistics. If you can recommend me any good resources for these please feel free to hit me up!
+- Currently learning DSA, Web Development, and more advanced statistical techniques. If you can recommend me any good resources for these please feel free to hit me up!
 - Writer! I mainly write short stories, novelettes, and poetry. Please read my written works if you're interested.
 - Always learning something!
 
@@ -27,8 +27,8 @@
 - Data Science: Scikit-Learn, TensorFlow, PyTorch, Predictive Modeling
 
 ## Let's connect! :)
-- Facebook:
-- Linkedin
+- Facebook: https://www.facebook.com/gbriel.gilo/
+- Linkedin: https://www.linkedin.com/in/gabriel-anthony-gilo-380301270/
 - Email: gabrielanthonygilo13@gmail.com
 
 Feel free to explore my repositories to see the projects that I have worked on/am working on!
