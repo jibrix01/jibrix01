@@ -23,7 +23,7 @@
 ## Tech Stack
 - Programming Languages: Python, Elm, C, C#, Lua
 - Web Development: HTML, CSS, JS, React, Flask
-- Data Analysis: Pandas, NumPy, SciPy, Advanced SQL, Excel
+- Data Analysis: Pandas, NumPy, Seaborn, Matplotlib, SciPy, SQL, Excel
 - Data Science: Scikit-Learn, TensorFlow, PyTorch, Predictive Modeling
 
 ## Let's connect! :)
