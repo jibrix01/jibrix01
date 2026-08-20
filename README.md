@@ -1,6 +1,8 @@
 <div align="center">
-  <img width="736" height="306" alt="image" src="https://github.com/user-attachments/assets/7c0d0a7f-76db-4984-968a-d51b0cef874b" />
+  <img width="1080" height="330" alt="image" src="https://github.com/user-attachments/assets/2418dd6a-a193-43b9-a076-12e9550214ae" />
 </div>
+
+
 
 > "Yesterday is but a dream,
 > Tomorrow is only a vision. 
@@ -9,9 +11,9 @@
 > — **Kālidāsa**, *The Complete Works of Kalidasa, Vol. 1: Poems*
 >
 
-# nuqneH!
 
-## About Me
+
+# nuqneH!
 - Currently a 2nd year BS Computer Science Student in University of the Philippines: Diliman
 - Interested in applying computer science, data science, machine learning, and statistics in solving problems or questions I find interesting/noteworthy.
 - Currently learning DSA, Software Development, and modelling statistics. If you can recommend me any good resources for these please feel free to hit me up!
@@ -24,4 +26,9 @@
 - Data Analysis: Pandas, NumPy, SciPy, Advanced SQL, Excel
 - Data Science: Scikit-Learn, TensorFlow, PyTorch, Predictive Modeling
 
-Let's connect! :)
+## Let's connect! :)
+- Facebook:
+- Linkedin
+- Email: gabrielanthonygilo13@gmail.com
+
+Feel free to explore my repositories to see the projects that I have worked on/am working on!
