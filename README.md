@@ -20,7 +20,8 @@
 - Writer! I mainly write short stories, novelettes, and poetry. Please read my written works if you're interested.
 - Always learning something!
 
-## Tech Stack
+## Stack
+- Design: Canva, Figma
 - Programming Languages: Python, Elm, C, C#, Lua
 - Web Development: HTML, CSS, JS, React, Flask
 - Data Analysis: Pandas, NumPy, Seaborn, Matplotlib, SciPy, SQL, Excel
