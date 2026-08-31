@@ -32,6 +32,4 @@
 - Linkedin: https://www.linkedin.com/in/gabriel-anthony-gilo-380301270/
 - Email: gabrielanthonygilo13@gmail.com
 
-Feel free to explore my repositories to see the projects that I have worked on/am working on!
-
 Wanna know more about me? Visit my personal website: https://gab-brain.vercel.app/
