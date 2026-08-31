@@ -32,4 +32,4 @@
 - Linkedin: https://www.linkedin.com/in/gabriel-anthony-gilo-380301270/
 - Email: gabrielanthonygilo13@gmail.com
 
-Wanna know more about me? Visit my personal website: https://gab-brain.vercel.app/
+https://gab-brain.vercel.app/
