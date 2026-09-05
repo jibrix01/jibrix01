@@ -14,7 +14,7 @@
 
 
 # nuqneH!
-- Currently a 2nd year BS Computer Science Student in University of the Philippines: Diliman
+- 2nd year BS Computer Science Student in University of the Philippines: Diliman. I'm also currently interning at Eskwelabs.
 - Interested in applying data science in tackling problems I find interesting!
 - Currently learning DSA, Web Development, and more advanced statistical techniques. If you can recommend me any good resources for these please feel free to hit me up!
 - Always learning something!
