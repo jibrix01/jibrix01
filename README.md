@@ -15,17 +15,16 @@
 
 # nuqneH!
 - Currently a 2nd year BS Computer Science Student in University of the Philippines: Diliman
-- Interested in applying computer science, data science, machine learning, and statistics in solving problems or questions I find interesting/noteworthy.
+- Interested in applying data science in tackling problems I find interesting!
 - Currently learning DSA, Web Development, and more advanced statistical techniques. If you can recommend me any good resources for these please feel free to hit me up!
-- Writer! I mainly write short stories, novelettes, and poetry. Please read my written works if you're interested.
 - Always learning something!
 
 ## Stack
 - Design: Canva, Figma
 - Programming Languages: Python, Elm, C, C#, Lua
 - Web Development: HTML, CSS, JS, React, Flask
-- Data Analysis: Pandas, NumPy, Seaborn, Matplotlib, SciPy, SQL, Excel
-- Data Science: Scikit-Learn, TensorFlow, PyTorch, Predictive Modeling
+- Data Analysis: Pandas, NumPy, Seaborn, Matplotlib, SQL
+- Data Science: Scikit-Learn, TensorFlow, PyTorch
 
 ## Let's connect! :)
 - Facebook: https://www.facebook.com/gbriel.gilo/
